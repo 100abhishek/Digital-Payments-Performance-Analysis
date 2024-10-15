@@ -1,4 +1,4 @@
-# Digital Payments Performance Analysis Using SQL
+# Digital Payments Performance Analysis Using SQL.
 
 ## Project Overview
 This project focuses on analyzing digital payments data to uncover customer spending patterns and merchant performance. The analysis involves performing optimized SQL queries, including **JOINs**, **RANK()**, and **window functions**, to extract valuable insights and improve database efficiency.
